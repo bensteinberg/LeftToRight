@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lefttoright"
-version = "0.2.3"
+version = "0.2.4"
 description = ""
 authors = ["Andrew Silva <asilva@law.harvard.edu>", "Ben Steinberg <bsteinberg@law.harvard.edu>"]
 
